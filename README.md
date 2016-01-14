@@ -13,3 +13,8 @@ I also intend to continue to develop on the basis of it for own todolist, Sahua!
 原链接[todolist.cn](http://todolist.cn)
 
 我还打算继续这基础上开发适合自己的todolist，撒花！！(^_^)
+
+## 安装 install
+`git clone https://github.com/bill0/todolist.git`
+
+## chrome open index.html
