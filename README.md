@@ -8,7 +8,7 @@ I also intend to continue to develop on the basis of it for own todolist, Sahua!
 
 ##### ZH_CN:
 
-这是一个基于html+js浏览器本地的todolist，不是我原创的。也不知道是谁的，我只是想在github上共享给需要的人！
+这是一个基于html+js浏览器离线的todolist，不是我原创的。也不知道是谁的，我只是想在github上共享给需要的人！
 
 原链接[todolist.cn](http://todolist.cn)
 
